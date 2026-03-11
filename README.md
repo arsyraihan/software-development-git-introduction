@@ -4,15 +4,15 @@
 
 ## tools yang digunakan:
 
-`1. Google Antigravity`
-`2. Vs Code`
-`3. Git`
-`4. GitHub`
+- `Google Antigrafity`
+- `vs Code`
+- `git`
+- `github`
 
 ## Daftar file dalam repository:
 
-`1. README.md`
-`2. perkenalan.md`
-`3. .gitignore`
+- `README.md`
+- `perkenalan.md`
+-  `.gitignore`
 
 _by: wyze.iX_
